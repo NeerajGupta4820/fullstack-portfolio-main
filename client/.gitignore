@@ -1,0 +1,5 @@
+node_modules
+.firebaseserc
+.env
+.dist
+.firebase.json
